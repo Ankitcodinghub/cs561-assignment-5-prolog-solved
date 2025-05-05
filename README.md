@@ -1,0 +1,1 @@
+# cs561-assignment-5-prolog-solved
